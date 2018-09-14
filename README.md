@@ -15,5 +15,7 @@ wget https://raw.githubusercontent.com/phillyit/centos-freepbx-autoinstall/maste
 sh install.sh
 ```
 
+After install is completed, it will direct you to your public server IP address, where you can create your admin credentials for FreePBX.
+
 
 For more tutorials or guides visit us at [PhillyIT](http://phillyit.com/)
