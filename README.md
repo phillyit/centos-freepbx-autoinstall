@@ -4,13 +4,16 @@ Script to Automatically Install FreePBX / Asterisk on CentOS 7
 Tested on:
 * CentOS 7
 
+Based on:
+* https://wiki.freepbx.org/display/FOP/Installing+FreePBX+14+on+CentOS+7
+
 Software Versions installed:
 * Asterisk 15.x
 * FreePBX 14.x
 * PHP 5.x (FreePBX requires this version)
 * Apache 2.4.x (CentOS default version)
 
-along with a slew of dependancies, the list is long.
+The auto install script installs a slew of dependancies, the list is long. Check out the script source to see what is installed. 
 
 ## Installation
 
