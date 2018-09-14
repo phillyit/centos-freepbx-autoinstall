@@ -9,6 +9,7 @@ Software Versions installed:
 * FreePBX 14.x
 * PHP 5.x (FreePBX requires this version)
 * Apache 2.4.x (CentOS default version)
+
 along with a slew of dependancies, the list is long.
 
 ## Installation
