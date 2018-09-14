@@ -101,7 +101,6 @@ make
 make install
 echo -e '\tJansson install complete.'
 
-
 ###
 echo 'Compiling and Installing Asterisk, this will take a while'
 cd /usr/src
