@@ -7,7 +7,7 @@ Tested on:
 Based on:
 * https://wiki.freepbx.org/display/FOP/Installing+FreePBX+14+on+CentOS+7
 
-###Software Versions installed:
+### Software Versions installed:
 * Asterisk 15.x
 * FreePBX 14.x
 * PHP 5.x (FreePBX requires this version)
