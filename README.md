@@ -11,7 +11,7 @@ Based on:
 * Asterisk 15.x
 * FreePBX 14.x
 * PHP 5.x (FreePBX requires this version)
-* Apache 2.4.x (CentOS default version)
+* Apache 2.4.x (CentOS default)
 
 The auto install script installs a slew of dependancies, the list is long. Check out the script source to see what is installed. 
 
