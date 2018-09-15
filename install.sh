@@ -108,7 +108,7 @@ tar xvfz asterisk-15-current.tar.gz
 rm -f asterisk-15-current.tar.gz
 cd asterisk-*
 contrib/scripts/install_prereq install
-sh configure
+make menuselect
 make
 make install
 make config
